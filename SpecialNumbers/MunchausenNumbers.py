@@ -1,3 +1,4 @@
+#https://pastebin.pl/view/34ea69c2
 def is_munchausen_number(num):
     num_str = str(num)
     total = 0
